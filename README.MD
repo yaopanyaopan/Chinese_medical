@@ -1,0 +1,3 @@
+medical_data_processing:方剂功效以及药物预处理，剂量转换等
+jiliang_xishu:运用 logistic回归+L1 分别比较了加剂量与不加剂量，挖掘出的top药物，并在此基础上做关联规则挖掘方剂功效配伍
+ECMA_python3.5:运用深度学习方法，基于“A Structured Self Attentive Sentence Embedding”改进，利用注意力对每一个方剂进行去噪，再运用关联规则挖掘方剂功效配伍

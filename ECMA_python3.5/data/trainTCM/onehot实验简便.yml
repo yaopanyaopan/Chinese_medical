@@ -1,0 +1,79 @@
+logistic_lasso=linear_model.LogisticRegression(C=c, penalty='l1',fit_intercept =False,max_iter=maxiter,solver='liblinear',random_state=10,tol=1e-20).fit(X_train,y)
+# coding=utf-8
+#清热解毒
+    preName = 'QRJD'
+    dimension = '582'
+    function='清热解毒'#中文
+#活血化瘀
+    preName = 'HXHY'
+    dimension = '355'
+    function='活血化瘀'#中文
+    
+    num=158
+
+#化痰
+    preName = 'HT'
+    dimension = '687'
+    function='化痰'#中文
+    
+    num=665
+
+#壮筋骨
+    preName = 'ZJG'
+    dimension = '347'
+    function='壮筋骨'#中文
+    
+    num=168
+#止血
+    preName = 'ZX'
+    dimension = '359'
+    function='止血'#中文
+
+    num=225
+
+#消肿
+    preName = 'XZ'
+    dimension = '549'
+    function='消肿'#中文
+
+#利湿
+    preName = 'LS'
+    dimension = '375'
+    function='利湿'#中文
+
+#明目
+    preName = 'MM'
+    dimension = '413'
+    function='明目'#中文
+
+#健脾
+    preName = 'JP'
+    dimension = '596'
+    function='健脾'#中文
+
+#止咳
+    preName = 'ZK'
+    dimension = '322'
+    function='止咳'#中文
+
+#安神
+    preName = 'AS'
+    dimension = '396'
+    function='安神'#中文
+
+#活血止痛
+    preName = 'HXZT'
+    dimension = '209'
+    function='活血止痛'#中文
+
+#止痒
+    preName = 'ZY'
+    dimension = '314'
+    function='止痒'#中文
+
+#通络
+    preName = 'TL'
+    dimension = '327'
+    function='通络'#中文
+
+

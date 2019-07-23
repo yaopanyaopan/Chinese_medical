@@ -1,0 +1,2 @@
+model_checkpoint_path: "0617_model_noLstmHH_r1_QRJD_epoches50_num10.ckpt"
+all_model_checkpoint_paths: "0617_model_noLstmHH_r1_QRJD_epoches50_num10.ckpt"
